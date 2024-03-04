@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/s216e15/Documents/Unreal Projects/MyProject3/Content/ThirdPerson/Blueprints/BP_PlayerCharacrter.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/MyProject3/Content/ThirdPerson/Blueprints/Bp_HelloWorld.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/8R/UHGZGICSSA6R34Z3T45A4D.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YA/OOMK7R0269KCT0CVPNGQ1T.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/MyProject3/Content/ThirdPerson/Blueprints/Character_Input/IA_Movements.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/MyProject3/Content/ThirdPerson/Blueprints/Character_Input/IA_look.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/MyProject3/Content/ThirdPerson/Blueprints/Character_Input/IA_Jump.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/MyProject3/Content/ThirdPerson/Blueprints/Character_Input/IMCPlayerInputs.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/MyProject3/Content/ThirdPerson/Blueprints/Character_Input/IA_Jump_.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/MyProject3/Content/ThirdPerson/Blueprints/Character_Input/IA_look_.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/MyProject3/Content/ThirdPerson/Blueprints/Character_Input/IA_Movements_.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/MyProject3/Content/ThirdPerson/Blueprints/Character_Input/IA_Movements_New.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/Users/s216e15/Documents/Unreal Projects/MyProject3/Content/ThirdPerson/Blueprints/BP_Coin.uasset",
+				"C:/DZG/Project/MyProject3/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/DZG/Project/MyProject3/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/D/TZ/DTMRD4QT886R8H6LWMPL8U.uasset",
+				"C:/DZG/Project/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/8R/UHGZGICSSA6R34Z3T45A4D.uasset",
+				"C:/DZG/Project/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/Q5/KKZS7U3IPP4A3LG5QA0HLT.uasset",
+				"C:/DZG/Project/MyProject3/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/DZG/Project/MyProject3/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/DZG/Project/MyProject3/Content/ThirdPerson/Blueprints/Bp_HelloWorld.uasset",
+				"C:/DZG/Project/MyProject3/Content/Blueprints/NewBlueprint.uasset",
+				"C:/DZG/Project/MyProject3/Content/ThirdPerson/Blueprints/gm.uasset",
+				"C:/DZG/Project/MyProject3/Content/ThirdPerson/Blueprints/Base_Character.uasset",
+				"C:/DZG/Project/MyProject3/Content/ThirdPerson/Blueprints/BP_PlayerCharacrter.uasset",
+				"C:/DZG/Project/MyProject3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/DZG/Project/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/DZG/Project/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YA/OOMK7R0269KCT0CVPNGQ1T.uasset",
+				"C:/DZG/Project/MyProject3/Content/ThirdPerson/Blueprints/GM_CLASE.uasset",
+				"C:/DZG/Project/MyProject3/Content/ThirdPerson/Blueprints/Bp_Base_Character.uasset",
+				"C:/DZG/Project/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/PB/MZ5QR3VD3H1M4GGYO5UMLJ.uasset",
+				"C:/DZG/Project/MyProject3/Content/ThirdPerson/Blueprints/Bp_ChildCharacter.uasset"
+			]
+		}
+	]
+}
